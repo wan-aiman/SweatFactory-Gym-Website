@@ -1,4 +1,4 @@
-# Gym and Healthy Lifestyle Website - INFO 2302 Web Technologies
+# SweatFactory: Gym and Healthy Lifestyle Website
 
 ## Project Overview
 This project is a web development initiative to create a comprehensive online platform for SweatFactory, a fictitious gym and healthy lifestyle organization. The website aims to facilitate gym registrations, offer educational content on health and wellness, and align with Sustainable Development Goal 3: Good Health and Well-being.
