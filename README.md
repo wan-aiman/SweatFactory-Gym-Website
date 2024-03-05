@@ -1,11 +1,5 @@
 # Gym and Healthy Lifestyle Website - INFO 2302 Web Technologies
 
-## Course Information
-- **Institution**: Kulliyyah of Information and Communication Technology
-- **Department**: Information Systems
-- **Semester**: 2, 2022/2023
-- **Section**: 01
-
 ## Project Overview
 This project is a web development initiative to create a comprehensive online platform for SweatFactory, a fictitious gym and healthy lifestyle organization. The website aims to facilitate gym registrations, offer educational content on health and wellness, and align with Sustainable Development Goal 3: Good Health and Well-being.
 
